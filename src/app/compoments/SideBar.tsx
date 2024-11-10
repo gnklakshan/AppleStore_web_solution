@@ -6,13 +6,6 @@ import { checkoutCredits } from "@/lib/actions/checkout.actions";
 import { loadStripe } from "@stripe/stripe-js";
 import { useEffect } from "react";
 
-interface Product {
-  id: number;
-  name: string;
-  price: number;
-  quantity: number;
-}
-
 interface SideBarProps {
   isOpen: boolean;
   toggleCart: () => void;
