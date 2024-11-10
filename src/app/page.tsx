@@ -11,7 +11,6 @@ import RecentProducts from "./compoments/recentProducts";
 
 export default function Home() {
   const [isOpen, setIsOpen] = useState(false);
-  const { cart } = useCart();
 
   const toggleCart = () => {
     setIsOpen(!isOpen);

@@ -12,7 +12,7 @@ const ProductView = () => {
   const searchParams = useSearchParams();
   const [isOpen, setIsOpen] = useState(false);
   const [quantity, setQuantity] = useState(1);
-  const { cart, addProductToCart } = useCart();
+  const { addProductToCart } = useCart();
   const [product, setProduct] = useState({
     id: 0,
     name: "",
