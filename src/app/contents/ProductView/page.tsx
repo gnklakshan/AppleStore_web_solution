@@ -174,11 +174,7 @@ interface ProductDetailsProps {
   setIsOpen: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-const ProductDetails: React.FC<ProductDetailsProps> = ({
-  toggleCart,
-  isOpen,
-  setIsOpen,
-}) => {
+const ProductDetails: React.FC<ProductDetailsProps> = ({ setIsOpen }) => {
   const searchParams = useSearchParams();
   const [quantity, setQuantity] = useState(1);
   const { addProductToCart } = useCart();
