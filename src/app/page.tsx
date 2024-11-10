@@ -5,7 +5,6 @@ import Sales_item_banner from "./compoments/sales_item_banner";
 import Product_list from "./compoments/product_list";
 import SideBar from "./compoments/SideBar";
 import { useState } from "react";
-import { useCart } from "./backend_functions/cart_and_buy_functions";
 import Footer from "./compoments/footer";
 import RecentProducts from "./compoments/recentProducts";
 
