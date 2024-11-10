@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 16 Pro Max",
+      "price": "440000",
+      "tag": "New",
+      "image": "/images/iphone_common.png",
+      "details": "Experience the latest technology with the iPhone 13 Pro, featuring a stunning display, advanced camera system, and unmatched performance. Perfect for capturing moments, gaming, and multitasking with ease.",
+      "color": "Graphite",
+      "storage": "128 GB",
+      "camera": "Triple 12MP System",
+      "battery": "Up to 22 hours talk time"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 16 Pro",
+      "price": "400000",
+      "tag": "Featured",
+      "image": "/images/new.png",
+      "details": "Experience the latest technology with the iPhone 13, featuring a stunning display, advanced camera system, and unmatched performance. Perfect for capturing moments, gaming, and multitasking with ease.",
+      "color": "Blue",
+      "storage": "128 GB",
+      "camera": "Dual 12MP System",
+      "battery": "Up to 19 hours talk time"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 16 ",
+      "price": "380000",
+      "tag": "New",
+      "image": "/images/new1.png",
+      "details": "Experience the latest technology with the iPhone 12 Pro, featuring a stunning display, advanced camera system, and unmatched performance. Perfect for capturing moments, gaming, and multitasking with ease.",
+      "color": "Pacific Blue",
+      "storage": "128 GB",
+      "camera": "Triple 12MP System",
+      "battery": "Up to 20 hours talk time"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 15 Pro Max",
+      "price": "320000",
+      "tag": "New",
+      "image": "/images/iphone_common.png",
+      "details": "Experience the latest technology with the iPhone 12, featuring a stunning display, advanced camera system, and unmatched performance. Perfect for capturing moments, gaming, and multitasking with ease.",
+      "color": "Black",
+      "storage": "64 GB",
+      "camera": "Dual 12MP System",
+      "battery": "Up to 17 hours talk time"
+    }
+  ]
+  

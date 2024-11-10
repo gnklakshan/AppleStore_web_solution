@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": "320000",
+    "tag": "New",
+    "image": "/images/iphone15pro.jpg",
+    "details": "The iPhone 15 Pro offers a premium experience with a titanium frame, the new A17 Bionic chip, and a stunning 6.1-inch Super Retina XDR display. Capture stunning photos with the 48MP main camera system, and enjoy incredible performance and battery life.",
+    "color": "Titanium Gray",
+    "storage": "128 GB, 256 GB, 512 GB, 1 TB",
+    "camera": "48MP Main Camera, 12MP Ultra Wide, 12MP Telephoto, LiDAR Scanner",
+    "battery": "Up to 23 hours talk time"
+
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14",
+    "price": "280000",
+    "tag": "Featured",
+    "image": "/images/iphone14.jpg",
+    "details": "The iPhone 14 delivers an exceptional 6.1-inch Super Retina XDR display, powered by the A15 Bionic chip. With dual 12MP cameras, including an upgraded Night Mode, and better battery life, it's perfect for all your everyday needs.",
+    "color": "Midnight, Purple, Blue, Starlight",
+    "storage": "128 GB, 256 GB, 512 GB",
+    "camera": "12MP Main Camera, 12MP Ultra Wide",
+    "battery": "Up to 20 hours talk time"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13 Pro Max",
+    "price": "220000",
+    "tag": "Best Seller",
+    "image": "/images/iphone13promax.png",
+    "details": "The iPhone 13 Pro Max features a large 6.7-inch Super Retina XDR display with ProMotion for ultra-smooth scrolling. It includes a triple-camera system with a 12MP telephoto lens, perfect for low-light conditions and macro photography.",
+    "color": "Graphite, Gold, Silver, Sierra Blue",
+    "storage": "128 GB, 256 GB, 512 GB, 1 TB",
+    "camera": "12MP Main Camera, 12MP Ultra Wide, 12MP Telephoto, LiDAR Scanner",
+    "battery": "Up to 28 hours talk time"
+
+  },
+  {
+    "id": 4,
+    "name": "iPhone 13 Mini",
+    "price": "200000",
+    "tag": "New",
+    "image": "/images/iphone13mini.jpg",
+    "details": "The iPhone 13 Mini offers a compact design without sacrificing performance. With a 5.4-inch Super Retina XDR display and dual 12MP cameras, it's a perfect fit for those who want the best performance in a small package.",
+    "color": "Starlight, Midnight, Blue, Pink",
+    "storage": "128 GB, 256 GB, 512 GB",
+    "camera": "12MP Main Camera, 12MP Ultra Wide",
+    "battery": "Up to 17 hours talk time"
+
+  },
+  {
+    "id": 5,
+    "name": "iPhone SE (3rd generation)",
+    "price": "100000",
+    "tag": "Affordable",
+    "image": "/images/iphonese.jpg",
+    "details": "The iPhone SE (3rd generation) offers the same performance as the iPhone 13 with the A15 Bionic chip, all in a compact design. Enjoy great battery life, a 12MP camera, and access to all of Apple's latest features.",
+    "color": "Midnight, Starlight, Red",
+    "storage": "64 GB, 128 GB, 256 GB",
+    "camera": "12MP Single Lens Camera",
+    "battery": "Up to 15 hours talk time"
+
+  },
+  {
+    "id": 6,
+    "name": "iPhone 12 Pro Max",
+    "price": "150000",
+    "tag": "Refurbished",
+    "image": "/images/iphone12promax.png",
+    "details": "The iPhone 12 Pro Max delivers superior photography and performance with a 6.7-inch OLED display, A14 Bionic chip, and a 12MP triple-camera system. Ideal for those who want a large screen and top-tier camera quality.",
+    "color": "Graphite, Silver, Gold, Pacific Blue",
+    "storage": "128 GB, 256 GB, 512 GB",
+    "camera": "12MP Main Camera, 12MP Ultra Wide, 12MP Telephoto, LiDAR Scanner",
+    "battery": "Up to 20 hours talk time"
+
+  }
+]
