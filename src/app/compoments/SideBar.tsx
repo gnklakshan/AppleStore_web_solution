@@ -19,7 +19,7 @@ const SideBar: React.FC<SideBarProps> = ({ isOpen, toggleCart }) => {
   };
 
   useEffect(() => {
-    loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY!);
+    loadStripe(process.env.NEXT_PUBLISHABLE_KEY!);
   }, []);
 
   const onCheckout = async () => {
